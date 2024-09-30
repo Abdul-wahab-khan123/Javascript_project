@@ -1,0 +1,87 @@
+
+
+
+@media only screen and (max-width: 1920px) and (min-width: 1500px) {
+	.container {
+		max-width: 1450px;
+	}
+	.hidden-lg{
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 1600px) {
+}
+
+@media only screen and (max-width: 1445px) {
+}
+
+@media only screen and (max-width: 1366px) {
+	html {
+		font-size: 15px;
+	}
+}
+
+@media (max-width: 1199.98px) {
+	html {
+		font-size: 14px;
+	}
+}
+@media (max-width: 991.98px) {
+	html {
+		font-size: 13px;
+	}
+}
+@media (max-width: 767.98px) {
+	html {
+		font-size: 12px;
+	}
+	.hidden-xs {
+		display: none!important;
+	}
+ 
+}
+@media (max-width: 575.98px) {
+    .search input {
+        width: 100%;
+    }
+    
+    .humidity, .wind {
+        font-size: 18px;
+    }
+    
+    .details {
+        padding: 0;
+    }
+    
+    h1.temp {
+        font-size: 52px;
+    }
+    
+    h2.city {
+        font-size: 28px;
+    }
+    
+}
+@media (max-width: 375.98px) {
+    .search input {
+        width: 100%;
+    }
+    
+    .humidity, .wind {
+        font-size: 18px;
+    }
+    
+    .details {
+        padding: 0;
+    }
+    
+    h1.temp {
+        font-size: 52px;
+    }
+    
+    h2.city {
+        font-size: 28px;
+    }
+    
+}
